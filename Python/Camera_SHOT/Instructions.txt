@@ -1,6 +1,5 @@
 Instructions --
-
-
+----------------------------------------------------
 
 1. Download and extract Camera_SHOT.rar
 
